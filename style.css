@@ -1,0 +1,27 @@
+body{
+background-color: blanchedalmond;
+}
+p{
+    text-align: center;
+    margin-top: 5%;
+    border: solid black 10px;
+    padding: white 20%;
+    font-size: medium;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+header{
+    text-align: center;
+    font-family: 'Rubik Pixels', cursive;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    margin-left: 47%;
+}
+footer{
+    font-family: 'Rubik Pixels', cursive;
+    text-align: center;
+}

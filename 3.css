@@ -1,0 +1,31 @@
+    body{
+    background-color: blanchedalmond;
+    }
+    header{
+        text-align: center;
+        font-family: 'Rubik Pixels', cursive;
+        font-size: xx-large;
+    }
+    section{
+        text-align: center;
+        margin-top: 5%;
+        font-size: larger;
+        margin-bottom: 10px;
+        font-family: 'Barlow Condensed', sans-serif;
+        width: 60px;
+        margin-left: 20px;
+    }
+    footer{
+        text-align: center;
+        font-family: 'Rubik Pixels', cursive; text-align: center;
+    }
+    #p{
+        border: solid black 7px;
+        padding: white 20%;
+        font-family: 'Barlow Condensed', sans-serif;
+    }
+    p{
+        border: solid black 7px;
+        padding: white 20%;
+        font-family: 'Barlow Condensed', sans-serif;
+    }
