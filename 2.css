@@ -15,11 +15,13 @@ body{
         
     }
     img{
-        margin-left: 10%;
-        height: 250px;
+        margin-left: 32%;
+        height: 50px;
+        width: 500px;
         border: solid black 5px;
         padding: white 20%;
         margin-top: 10px;
+
     }
     footer{
         text-align: center;
